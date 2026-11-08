@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Enrida Ndreu"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/

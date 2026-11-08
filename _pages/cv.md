@@ -1,3 +1,4 @@
+[Download my CV here](https://github.io)
 ---
 layout: archive
 title: "CV"

@@ -23,7 +23,7 @@ repository               : "EnridaNdreu/enridandreu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/AvatarEnny.jpeg"
+  avatar           : "images/AvatarEnny.jpeg"
   name             : "Enrida Ndreu"
   pronouns         : ""  
   bio              : "Phd Candidate in Economics at the University of Florence"

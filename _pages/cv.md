@@ -1,4 +1,4 @@
-[Download my CV here](https://github.io)
+[Download my CV here](/files/CV_Enrida_Ndreu.pdf)
 ---
 layout: archive
 title: "CV"
